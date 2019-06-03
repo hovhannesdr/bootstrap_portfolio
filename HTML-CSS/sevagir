@@ -1,0 +1,126 @@
+ <div class="cn_2_img_header">
+		    <h3 class="cn_2_img_title">In Progress (3)</h3>
+             <img class="arrow" src="pictures/arrow.png" alt="arrow">
+            <h3 class="cn_2_img_title"> Compleate (2)</h3>
+        </div>
+            <div class="cn_2_img_body">
+                <img class="cn2img" src="pictures/InProgress.png" alt="InProgress.png">
+		        <img class="cn2img" src="pictures/Done.png" alt="Done.png">
+                <img class="cn2img" src="pictures/Task.png" alt="asd">
+                <img class="" src="pictures/Hand.png" alt="asd">
+                <img class="" src="pictures/Elipsa-1.png" alt="asd">
+                <img class="" src="pictures/Elipsa-2.png" alt="asd">
+             <div class=""><a href="#">Drop here</a>
+             </div>
+            </div>
+
+
+
+
+            css
+
+
+.cn_2_img_title{
+    float: left;
+}
+
+.cn2img{
+    width: 50%;
+    float: left;
+}
+
+.cn_2_img_body{
+}
+
+.arrow{
+}
+
+
+ <img id="ScreenMockup" src="pictures/ScreenMockup.png" alt="ScreenMockup">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 <img src="pictures/Prostokat18.png" alt="Prostokat18.png" class="cn3Lines">
+
+                 <img src="pictures/Elipsa1kopia2.png" alt="Elipsa1kopia2.png" class="cn3circule">
+
+                 <img src="pictures/Elipsa1kopia21.png" alt="Elipsa1kopia21.png" class="cn3circule">
+
+                 <p class="cn3detalesText">Lorem ipsum dolor sit amet,<br> consectetur adipisicing elit. <br> Amet dolor dolorem ex facere harum,<br> illum quam tempore totam!</p>
+
+
+             <div id="cn3detales2">
+
+             </div>
+
+
+
+             <div id="cn3detales1">
+
+                     <h5 class="cn3detalTitle">Clean & layout</h5>
+                     <img src="pictures/Prostokat18.png" alt="Prostokat18.png" class="cn3Lines">
+
+                     <img src="pictures/Elipsa1kopia2.png" alt="Elipsa1kopia2.png" class="cn3circule">
+
+                     <img src="pictures/Elipsa1kopia21.png" alt="Elipsa1kopia21.png" class="cn3circule">
+
+                     <p class="cn3detalesText">Lorem ipsum dolor sit amet,<br> consectetur adipisicing elit. <br> Amet dolor dolorem ex facere harum,<br> illum quam tempore totam!</p>
+                 </div>
+
+
+                 .cn3Lines{
+                     width: 30%;
+                     position: absolute;
+                 }
+
+                 .cn3circule{
+                     position:absolute;
+                 }
+
+                 .cn3detalesText{
+                     float: left;
+                     margin-top: 2%;
+                 }
+
+
+                  <div id="cn3detales1">
+
+                         <h5 class="cn3detalTitle">Clean & layout</h5>
+
+                         <img src="pictures/Prostokat18.png" alt="Prostokat18.png" class="cn3Lines">
+
+                         <img src="pictures/Elipsa1kopia2.png" alt="Elipsa1kopia2.png" class="cn3circule1">
+
+                         <img src="pictures/Elipsa1kopia21.png" alt="Elipsa1kopia21.png" class="cn3circule2">
+
+                         <p class="cn3detalesText">Lorem ipsum dolor sit amet,<br> consectetur adipisicing elit. <br> Amet dolor dolorem ex facere harum,<br> illum quam tempore totam!</p>
+                     </div>
+
+
+                     <img src="pictures/ScreenMockup.png" alt="ScreenMockup.png" class="cn3greatpicture">
+
+
+ <div id="cn3detales2">
+
+        <h5 class="cn3detalTitle2">Easy to costumize</h5>
+
+        <img src="pictures/Elipsa1kopia2.png" alt="Elipsa1kopia2.png" class="cn3circule1_2">
+
+        <img src="pictures/Elipsa1kopia21.png" alt="Elipsa1kopia21.png" class="cn3circule2_2">
+
+        <img src="pictures/Prostokat18.png" alt="Prostokat18.png" class="cn3Lines_2">
+
+        <p class="cn3detalesText2">Lorem ipsum dolor sit amet,<br> consectetur adipisicing elit. <br> Amet dolor dolorem ex facere harum</p>
+    </div>

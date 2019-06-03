@@ -1,0 +1,10 @@
+font-face{
+    font-family: Kana;
+    src: url(fonts/Kana_Sans/Kana_Sans_Light.ttf);
+
+}
+
+font-face{
+    font-family: SourceSansPro-Light;
+    src: url(fonts/sourse-sans-pro/SourceSansPro-Light.otf);
+}
